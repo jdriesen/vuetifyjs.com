@@ -87,6 +87,10 @@
           locale: 'en'
         },
         {
+          title: 'Nederlands',
+          locale: 'nl'
+        },
+        {
           title: 'русский',
           locale: 'ru'
         }
