@@ -7,12 +7,12 @@ export default {
     {
       "img": "/static/doc-images/feature1.svg",
       "title": "Ready-Made Project Scaffolding",
-      "text": "Vuetify biedt 8 pre-made vue-cli templates. Van eenvoundige html tot full-blown SSR. De setup duurt slechts enkele minuten."
+      "text": "Vuetify biedt 8 pre-made vue-cli templates. Van eenvoudige html tot full-blown SSR. De setup duurt slechts enkele minuten."
     },
     {
       "img": "/static/doc-images/feature2.svg",
       "title": "Semantic Material Componenten",
-      "text": "Vueitfy biedt u een 'armade' van gespecialiseerde componenten. Er zijn er meer dan 80; er is een oplossing voor elk type applicatie."
+      "text": "Vuetify biedt jou een uitgebreid gamma componenten. Er zijn er meer dan 80; er is een oplossing voor elk type applicatie."
     },
     {
       "img": "/static/doc-images/feature3.svg",
@@ -21,7 +21,7 @@ export default {
     }
   ],
   "checkFeaturesTitle": "Alle Tools die je nodig hebt..",
-  "checkFeaturesTitleCtd": "Om gelooflijk knappe Gebruiker-Inerfaces te bouwen",
+  "checkFeaturesTitleCtd": "Om ongelooflijk knappe Gebruiker-Inerfaces te bouwen",
   "checkFeatures": [
     "Community Chat Support",
     "Dynamische Themas",

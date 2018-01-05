@@ -1,6 +1,6 @@
 export default {
   header: 'Gratis en Premium themas',
-  headerText: 'Vuetify biedt Gratis en Premium themas om snel van start te gaan.. Gratis themes zijn beschikbaar via vue-cli of je kan eenvoudig de broncode downloaden.',
+  headerText: 'Vuetify biedt Gratis en Premium themas om snel van start te gaan. Gratis themas zijn beschikbaar via vue-cli of je kan eenvoudig de broncode downloaden.',
   free: 'FREE',
   demo: 'Demo',
   comingSoon: 'Word verwacht',
@@ -10,7 +10,7 @@ export default {
       screenshot: '/static/doc-images/starter/vuetify-premium.jpg',
       title: 'Startup',
       tag: 'PREMIUM',
-      description: 'Toon jouw Firma of persoonlijke portfolio met deze hand-gemaakte Material design template.',
+      description: 'Toon jouw Firma of persoonlijke portfolio met deze op maat gemaakte Material design template.',
       price: '25$',
       demoUrl: ''
     },
