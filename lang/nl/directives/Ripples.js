@@ -5,7 +5,7 @@ export default {
   examples: [{
     buttons: {
       header: 'Default',
-      desc: 'Buttons hebben standaard het ripple effect. Dit kan ongedaan worden gemaakt met de optie  `:ripple="false`.',
+      desc: 'Buttons hebben standaard het ripple effect. Dit kan ongedaan worden gemaakt met de optie  `:ripple="false"`.',
       uninverted: true
     },
     customColor: {
@@ -15,22 +15,22 @@ export default {
     },
     tabs: {
       header: 'Tabs',
-      desc: 'Tabs hebben standaard geen ripple effect. Het ripple effect kan toegepast worden met de **ripple** eigenschap (prop).',
+      desc: 'Tabs hebben standaard geen ripple effect. Het ripple effect kan toegepast worden met de **ripple** eigenschap.',
       uninverted: true
     },
     navigationDrawers: {
       header: 'Navigation drawers',
-      desc: 'List items hebben standaard geen ripple effect. Het ripple effect kan toegepast worden met de **ripple** eigenschap (prop).',
+      desc: 'List items hebben standaard geen ripple effect. Het ripple effect kan toegepast worden met de **ripple** eigenschap.',
       uninverted: true
     },
     toolbars: {
       header: 'Toolbars',
-      desc: 'Toolbar items hebben standaard geen ripple effect. Het ripple effect kan toegepast worden met de **ripple** eigenschap (prop).',
+      desc: 'Toolbar items hebben standaard geen ripple effect. Het ripple effect kan toegepast worden met de **ripple** eigenschap.',
       uninverted: true
     },
     expansionPanels: {
       header: 'Expansion panels',
-      desc: 'Expansion panels hebben standaard geen ripple effect. Het ripple effect kan toegepast worden met de **ripple** eigenschap (prop).',
+      desc: 'Expansion panels hebben standaard geen ripple effect. Het ripple effect kan toegepast worden met de **ripple** eigenschap.',
       uninverted: true
     },
     htmlElement: {

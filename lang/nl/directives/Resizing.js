@@ -1,6 +1,6 @@
 export default {
   header: 'Resize directive',
-  headerText: 'De <code>v-resize</code> directive kan gebruikt worden om specifieke functies aan te roepen wanneer uw `window` van grootte veranderd.',
+  headerText: 'De <code>v-resize</code> directive kan gebruikt worden om specifieke functies aan te roepen wanneer uw `window` van grootte verandert.',
   components: ['v-resize'],
   examples: [{
     default: {
